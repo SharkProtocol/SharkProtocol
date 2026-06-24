@@ -103,6 +103,16 @@ Currently in Progress
 * Secure Web Applications
 * Telecommunications
 
+## Future Projects
+
+Planned public projects and research areas:
+
+* Network Automation with Python
+* Infrastructure Monitoring Tools
+* ISP Operations Automation
+* Cybersecurity Utilities
+* Secure Web Platforms
+
 ## Contact
 
 🔗 LinkedIn
