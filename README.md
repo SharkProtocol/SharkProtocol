@@ -1,6 +1,6 @@
 # Vinicius Mello
 
-Cybersecurity professional with experience in ISP operations, network infrastructure, Linux environments, monitoring platforms, and software development.
+Cybersecurity professional, Network Engineer, and Systems Developer with hands-on experience in ISP operations, telecommunications, Linux infrastructure, monitoring platforms, security analysis, and software development.
 
 ## Core Areas
 
@@ -12,7 +12,7 @@ Cybersecurity professional with experience in ISP operations, network infrastruc
 * Security Monitoring
 * Incident Analysis
 
-### Networking & Infrastructure
+### Networking & Telecommunications
 
 * Mikrotik RouterOS
 * Huawei Networking
@@ -20,11 +20,14 @@ Cybersecurity professional with experience in ISP operations, network infrastruc
 * IPv4 / IPv6
 * VLAN & PPPoE
 * QoS
+* DWDM Fundamentals
 * WireGuard
 * OpenVPN
+* Network Troubleshooting
 
-### Monitoring & Diagnostics
+### Infrastructure & Monitoring
 
+* Linux Administration
 * Zabbix
 * Grafana
 * Wireshark
@@ -40,11 +43,25 @@ Cybersecurity professional with experience in ISP operations, network infrastruc
 * Node.js
 * Git & GitHub
 
+## Professional Background
+
+Experience in ISP environments involving:
+
+* Customer and Corporate Network Support
+* GPON Infrastructure
+* Backbone Monitoring
+* Network Troubleshooting
+* Service Provisioning
+* Infrastructure Documentation
+* Monitoring and Incident Response
+
 ## Featured Project
 
 ### Poke X Junior
 
-Modern MMORPG web platform developed with Next.js and MySQL, featuring:
+Modern MMORPG web platform developed with Next.js and MySQL.
+
+Main features include:
 
 * Account Management
 * Character Management
@@ -52,18 +69,46 @@ Modern MMORPG web platform developed with Next.js and MySQL, featuring:
 * Administrative Dashboard
 * News Management
 * Secure Authentication
-* Future Marketplace & Cosmetic Systems
+* Donate/Pix Architecture
+* Future Marketplace & Exclusive Pokémon Skin Systems
 
-🔗 Portfolio Repository:
+🔗 Portfolio Repository
+
 https://github.com/SharkProtocol/poke-x-junior-portfolio
 
 ## Education
 
-* Technology in Systems Analysis and Development (ADS)
-* MBA in Cybersecurity & Cybercrimes
-* Network Engineering & Telecommunications (In Progress)
+### Technology in Systems Analysis and Development (ADS)
+
+Federal Institute of Rio Grande do Sul (IFRS)
+
+### MBA in Cybersecurity & Cybercrimes
+
+Completed
+
+### Network Engineering & Telecommunications
+
+Currently in Progress
+
+### Additional Training
+
+* NIC.br – IPv6 in Corporate Environments
+
+## Current Interests
+
+* Cybersecurity
+* Network Engineering
+* Infrastructure Automation
+* Python Development
+* Secure Web Applications
+* Telecommunications
 
 ## Contact
 
-🔗 LinkedIn:
+🔗 LinkedIn
+
 https://www.linkedin.com/in/viniciuscmello/
+
+🔗 GitHub
+
+https://github.com/SharkProtocol
