@@ -1,43 +1,30 @@
 # Vinicius Mello
 
-Cybersecurity professional with experience in ISP operations, network infrastructure, Linux environments, monitoring platforms, security analysis, and software development.
+Cybersecurity professional with experience in ISP operations, network infrastructure, Linux environments, monitoring platforms, and software development.
 
-## About Me
-
-I work at the intersection of Cybersecurity, Network Engineering, Infrastructure, and Development.
-
-My background includes Internet Service Provider (ISP) operations, enterprise networking, monitoring systems, Linux administration, secure web platforms, and automation projects.
-
-I enjoy building practical solutions that combine infrastructure, security, and software development.
-
----
-
-## Core Expertise
+## Core Areas
 
 ### Cybersecurity
 
-* Security Assessment
-* Vulnerability Analysis
+* Vulnerability Assessment
 * Security Hardening
 * Web Application Security
-* Incident Investigation
 * Security Monitoring
+* Incident Analysis
 
-### Networking & Telecommunications
+### Networking & Infrastructure
 
 * Mikrotik RouterOS
 * Huawei Networking
 * GPON / OLT / ONU
-* VLAN
-* PPPoE
 * IPv4 / IPv6
+* VLAN & PPPoE
 * QoS
-* VPN Technologies
-* Network Troubleshooting
+* WireGuard
+* OpenVPN
 
-### Infrastructure & Monitoring
+### Monitoring & Diagnostics
 
-* Linux Administration
 * Zabbix
 * Grafana
 * Wireshark
@@ -49,68 +36,34 @@ I enjoy building practical solutions that combine infrastructure, security, and 
 * Python
 * Next.js
 * TypeScript
-* Node.js
 * MySQL / MariaDB
+* Node.js
 * Git & GitHub
-
----
-
-## Education
-
-### Technology in Systems Analysis and Development (ADS)
-
-Federal Institute of Rio Grande do Sul (IFRS)
-
-### MBA in Cybersecurity & Cybercrimes
-
-Completed
-
-### Network Engineering & Telecommunications
-
-Currently in progress
-
-### Additional Training
-
-* NIC.br – IPv6 in Corporate Environments
-
----
 
 ## Featured Project
 
-### Poke X Junior – MMORPG Web Platform
+### Poke X Junior
 
-Modern web platform developed for a MMORPG / OTServer-style game project.
-
-Main areas implemented:
+Modern MMORPG web platform developed with Next.js and MySQL, featuring:
 
 * Account Management
 * Character Management
 * Ranking System
-* News Management
 * Administrative Dashboard
+* News Management
 * Secure Authentication
-* File Upload Management
-* Future Donate/Pix Architecture
-* Security-Oriented Design
+* Future Marketplace & Cosmetic Systems
 
-Public Portfolio Repository:
+🔗 Portfolio Repository:
+https://github.com/SharkProtocol/poke-x-junior-portfolio
 
-🔗 https://github.com/SharkProtocol/poke-x-junior-portfolio
+## Education
 
----
+* Technology in Systems Analysis and Development (ADS)
+* MBA in Cybersecurity & Cybercrimes
+* Network Engineering & Telecommunications (In Progress)
 
-## Current Focus
+## Contact
 
-* Cybersecurity
-* Network Engineering
-* Linux Infrastructure
-* Infrastructure Automation
-* Secure Web Applications
-* Python Development
-
----
-
-## Connect With Me
-
-* GitHub: https://github.com/SharkProtocol
-* LinkedIn: https://www.linkedin.com/in/viniciuscmello/
+🔗 LinkedIn:
+https://www.linkedin.com/in/viniciuscmello/
